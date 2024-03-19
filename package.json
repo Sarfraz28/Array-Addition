@@ -1,0 +1,23 @@
+{
+  "name": "array-addition",
+  "version": "1.0.0",
+  "description": "an npm package for Addition of Array",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarfraz28/Array-Addition.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Md Sarfraz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarfraz28/Array-Addition/issues"
+  },
+  "homepage": "https://github.com/Sarfraz28/Array-Addition#readme"
+}
